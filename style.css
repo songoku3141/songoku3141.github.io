@@ -83,3 +83,9 @@ th, td {
   padding: 15px;
   margin: 10px 0;
 }
+
+.hobby:hover {
+  background-color: #dcdcdc;
+  transform: scale(1.02);
+  transition: 0.3s;
+}
