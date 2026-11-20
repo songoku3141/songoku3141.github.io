@@ -42,6 +42,7 @@ h3 {
 a {
   color: var(--theme-color);
   text-decoration: none;
+  text-align: center;      
 }
 
 /* --------------------
