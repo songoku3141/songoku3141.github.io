@@ -42,7 +42,6 @@ h3 {
 a {
   color: var(--theme-color);
   text-decoration: none;
-  text-align: center;      
 }
 
 /* --------------------
@@ -80,6 +79,7 @@ th {
 th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
+  text-align:center
 }
 
 .hobby {
