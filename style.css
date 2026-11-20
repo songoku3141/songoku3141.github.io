@@ -26,7 +26,8 @@ body {
         見出し
 -------------------- */
 
-h1 {
+h1 {  color: var(--theme-color);
+  border-bottom: solid 1em var(--theme-color);
 }
 h2 {  color: var(--theme-color);
   border-bottom: solid 0.1em var(--theme-color);
