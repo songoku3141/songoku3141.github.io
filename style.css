@@ -94,4 +94,7 @@ th, td {
 .hobby:hover {
   background-color: #dcdcdc;
   transform: scale(1.02);
+
+.history {
+ margin-bottom 5
 }
