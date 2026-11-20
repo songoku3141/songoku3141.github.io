@@ -39,6 +39,11 @@
 <a href="https://www.minecraft.net/ja-jp" target="_blank" rel="noopener noreferrer">
 公式サイトはこちら
   </a>
+  <button onclick="showInfo()">詳しく見る</button>
+
+<p id="game-info" style="display: none;">
+  ここにMinecraftの紹介文を入れます。
+</p>
 </div>
 </ul>
     <h3>Skills</h3>
@@ -101,5 +106,16 @@
         <td>表彰、受賞歴、メディア掲載記事などあれば</td>
       </tr>
     </table>
+    <script>
+function showInfo() {
+  const info = document.getElementById("game-info");
+
+  if (info.style.display === "none") {
+    info.style.display = "block";
+  } else {
+    info.style.display = "none";
+  }
+}
+</script>
   </body>
 </html>
