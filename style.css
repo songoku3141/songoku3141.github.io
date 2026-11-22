@@ -133,7 +133,6 @@ button:hover {
 }
 
 .history p span {
-  display: block;
-  margin-left: 0;
-  padding-left: 0;
+  display: block !important;
+  width: 100%;
 }
