@@ -131,3 +131,9 @@ button:hover {
   right: 20px;
   z-index: 100;
 }
+
+.history p span {
+  display: block;
+  margin-left: 0;
+  padding-left: 0;
+}
