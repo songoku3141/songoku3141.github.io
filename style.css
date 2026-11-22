@@ -32,7 +32,9 @@ h1 {  color: var(--theme-color);
 h2 {  color: var(--theme-color);
   border-bottom: solid 0.1em var(--theme-color);
 }
-h3 { color: var(--theme-color);
+h3 { 
+color:red;
+background-color:yelloow;
 }
 
 /* --------------------
