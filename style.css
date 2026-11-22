@@ -31,9 +31,13 @@ h1 {  color: var(--theme-color);
 }
 h2 {  color: var(--theme-color);
   border-bottom: solid 0.1em var(--theme-color);
+      margin-top: 40px;
+  padding-bottom: 5px;
+
 }
 h3 { color: var(--theme-color);
 　　 font-weight: bold;
+     margin-top: 25px;
 }
 
 /* --------------------
