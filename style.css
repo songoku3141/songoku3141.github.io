@@ -131,3 +131,8 @@ button:hover {
   right: 20px;
   z-index: 100;
 }
+
+body p {
+  padding-left: 0;
+  text-indent: 0;
+}
