@@ -148,3 +148,8 @@ body p {
   padding: 15px;
   margin: 10px 0;
 }
+
+#game-info {
+  font-size: 14px;
+  line-height: 1.8;
+}
